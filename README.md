@@ -26,7 +26,7 @@ Install required dependencies:
 
 1. Clone the repository:
 git clone https://github.com/Jar-pratyush/Smart_Office_Assistant.git
-cd Smart_Office_Assistant
+ cd Smart_Office_Assistant
 
 2. Store your Groq API key in a `.env` file in the project root:
 GROQ_API_KEY=your_groq_api_key_here
